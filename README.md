@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Name:** LATCHIPATRUNI CHARAN TEJA
-- **Registration Number:** 252U1R8045
+- **Name:** karthik
+- **Registration Number:** 252U1R8089
 - **Section:** CSE(QE)-2B - 204
 
 **Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
